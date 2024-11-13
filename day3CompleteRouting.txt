@@ -232,6 +232,16 @@ SION: sh ip ospf neighbor
 SIOD: sh ip ospf database
 SIRO: sh ip route ospf
 
+!!!Exam tanong: How do OSPF Reset/Refresh the Election: "Pandak na Kapatid"
+OSPF State: clear ip ospf process + y
+D own
+I nit
+T Wo-way
+E xstart
+E xchange
+L oading 
+F ULL: ALL is well!, all is Ping.
+
 @declaring Link between r3 and r4 as Point to Point:
 R3:
 config t
