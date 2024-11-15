@@ -268,10 +268,10 @@ AYUSIN ULET IS @taas: AT @baba
 config t
 spanning-tree vlan 1-999
 end
-
+@@!! 6 SWITCH !!@@
 TASK7: HOW TO BECOME A WORLD-CLASS NETWORK ENGINEER
 SPECIALIZING IN SWITCH:
-Master the 4 super Hereos of Switching
+Master the 5 super Hereos of Switching
 Qpid: 802.1Q:trunking
 "make switch love each other!"LQ
 Darna: 802.1d: STP
